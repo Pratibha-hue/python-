@@ -1,0 +1,10 @@
+//1st programme
+print("Enter the radius of circle is:")
+radius=float(input())
+area=22/7*(radius**2)
+print("The area of thr circle with radius 1.1 is ",area)
+
+//2nd programme
+print("Input the file name")
+file_name=str(input())
+print("The extension of file is : 'python'")
