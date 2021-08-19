@@ -9,9 +9,5 @@ print("input the file name")
 filename=input()
 if filename=="abc.py":
   print("The extension of file is :'python'")
-elif filename=="abc.cpp":
-    print("The extension of file is:'c++'")
-elif filename=="abc.html":
-    print("The extension of file is:'HTML'")
 else :
   print ("please input valid file name")
